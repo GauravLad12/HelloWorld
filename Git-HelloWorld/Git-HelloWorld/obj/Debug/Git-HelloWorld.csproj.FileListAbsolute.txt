@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Git-HelloWorld\Git-HelloWorld\bin\Debug\Git-HelloWorld.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Git-HelloWorld\Git-HelloWorld\bin\Debug\Git-HelloWorld.exe
+c:\users\admin\documents\visual studio 2015\Projects\Git-HelloWorld\Git-HelloWorld\bin\Debug\Git-HelloWorld.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Git-HelloWorld\Git-HelloWorld\obj\Debug\Git-HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Git-HelloWorld\Git-HelloWorld\obj\Debug\Git-HelloWorld.exe
+c:\users\admin\documents\visual studio 2015\Projects\Git-HelloWorld\Git-HelloWorld\obj\Debug\Git-HelloWorld.pdb
